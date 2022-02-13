@@ -10,7 +10,7 @@ To run the the software:
 2. open file BriscoBot.exe 
 
 Scripts:
-1. extract the folder BriscolaChiamata - Code.zip
+1. extract the folder https://github.com/GiuliaFas/BriscolaChiamata---Code.git
 2. C# scripts are collected in Assets\scripts
 3. Unity scripts are colelcted in Assets\Scenes
 
